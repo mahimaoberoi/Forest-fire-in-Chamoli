@@ -1,0 +1,1 @@
+var json_FireStation_6 = {"type":"FeatureCollection","name":"FireStation_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n6115840284","osm_id":"6115840284","osm_type":"node","amenity":"fire_station","name":"Fire Station"},"geometry":{"type":"Point","coordinates":[78.0188228,30.3450796]}}]}

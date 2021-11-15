@@ -1,0 +1,1 @@
+var json_MonitoringStation_5 = {"type":"FeatureCollection","name":"MonitoringStation_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n7702397589","osm_id":"7702397589","osm_type":"node","man_made":"monitoring_station"},"geometry":{"type":"Point","coordinates":[79.8570127,30.2121045]}}]}
